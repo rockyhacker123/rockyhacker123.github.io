@@ -1,0 +1,52 @@
+body {
+    background-image: linear-gradient(black, #a5a5a5);
+    background-attachment: fixed;
+    color: snow;
+    font-family: 'Ubuntu', sans-serif;
+}
+.bar_bottom {
+    background-color: #252525;
+    width: 130%;
+    left: -30px;
+    position: fixed;
+    bottom: -2px;
+    height: 50px;
+}
+.bar_iconlogo {
+    background-color: #ffffff;
+    position: fixed;
+    border-radius: 100px;
+    left: 0%;
+    width: 15%;
+    height: 50px;
+}
+.bar_about {
+    background-color: #ffffff;
+    position: fixed;
+    border-radius: 100px;
+    left: 30%;
+    width: 15%;
+    height: 50px;
+}
+.bar_download {
+    background-color: #ffffff;
+    position: fixed;
+    border-radius: 100px;
+    left: 59.67%;
+    width: 15%;
+    height: 50px;
+}
+.bar_github {
+    background-color: #ffffff;
+    position: fixed;
+    border-radius: 100px;
+    left: 85%;
+    width: 15%;
+    height: 50px;
+}
+.main_bigtext {
+	position: relative;
+	width: 258.89px;
+	height: 28;
+	left: 12%;
+}
